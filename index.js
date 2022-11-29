@@ -48,6 +48,4 @@ console.log(longText.length)
 let count = longText.match(/et/g).length
 console.log(count)
 
-for (i = 0 ; i <= hacker2.length; i-- ) {
-    console.log(hacker2[i])
-}
+
